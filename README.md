@@ -138,6 +138,6 @@ A collective list of Iranian/Persian Datasets.
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/MEgooneh/awesome-iran-datasets/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome!
 
-از مشارکت شما همواره استقبال می‌شود! لطفا جهت مشارکت به [راهنماء مشارکت](https://github.com/MEgooneh/awesome-iran-datasets/blob/master/CONTRIBUTING.md) نگاه کنید.
+از مشارکت شما همواره استقبال می‌شود
